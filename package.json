@@ -1,0 +1,22 @@
+{
+  "name": "@flat/embed-demo-editor-simple",
+  "version": "1.0.0",
+  "description": "Flat Embed editor simple demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlatIO/embed-demo-editor-simple.git"
+  },
+  "keywords": [
+    "music",
+    "notation",
+    "enbed",
+    "demo",
+    "sandbox"
+  ],
+  "author": "Vicent Giersch <devrel@flat.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FlatIO/embed-demo-editor-simple/issues"
+  },
+  "homepage": "https://github.com/FlatIO/embed-demo-editor-simple#readme"
+}
